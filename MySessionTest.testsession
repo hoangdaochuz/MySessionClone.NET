@@ -1,0 +1,5 @@
+<SessionState ContinuousTestingMode="0" IsActive="True" Name="MySessionTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session">
+  <TestAncestor>
+    <TestId>xUnit::9341FDBC-4945-472B-B1C9-818E23931155::net8.0::MySessionIntegrationTest.MySessionTest</TestId>
+  </TestAncestor>
+</SessionState>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySession", "MySession\MySession.csproj", "{7F847527-F1AF-4782-96F6-DC5111A6AB0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySessionIntegrationTest", "MySessionIntegrationTest\MySessionIntegrationTest.csproj", "{9341FDBC-4945-472B-B1C9-818E23931155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F847527-F1AF-4782-96F6-DC5111A6AB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F847527-F1AF-4782-96F6-DC5111A6AB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F847527-F1AF-4782-96F6-DC5111A6AB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F847527-F1AF-4782-96F6-DC5111A6AB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9341FDBC-4945-472B-B1C9-818E23931155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9341FDBC-4945-472B-B1C9-818E23931155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9341FDBC-4945-472B-B1C9-818E23931155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9341FDBC-4945-472B-B1C9-818E23931155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
